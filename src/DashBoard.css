@@ -1,0 +1,179 @@
+.head{
+text-align: left;
+}
+.DashBoard{
+    margin-left: 30px;
+}
+.navbar{
+    border: 1px solid black;
+    height:700px;
+    width:200px;
+    float:left;
+}
+.navbar-content{
+    border: 1px solid black;
+    padding: 10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:15px;
+    margin-right:15px;
+    margin:10 px;
+}
+.up{
+    height:250px;
+    width:900px;
+}
+.para-left{
+    position:absolute;
+    margin-top:10px;
+    margin-left:20px;
+    text-align:left;
+}
+.para-right{
+    position:absolute;
+    margin-top:10px;
+    margin-left:450px;
+    text-align:right;
+}
+.maths{
+    border: 1px solid black;
+    position:absolute;
+    margin-top:40px;
+    margin-left:20px;
+    width:230px;
+    height:130px;
+}
+.physics{
+    border: 1px solid black;
+    position:absolute;
+    margin-top:40px;
+    margin-left:270px;
+    width:230px;
+    height:130px;
+}
+.upcoming_lessons{
+    border: 1px solid black;
+    position:absolute;
+    height:200px;
+    width:250px;
+    margin-left:215px;
+    margin-top:20px;
+    
+}
+.tasks_to_do{
+    border: 1px solid black;
+    position:absolute;
+    height:200px;
+    width:250px;
+    margin-left:483px;
+    margin-top:20px;
+    
+}
+.leaderboard{
+    border: 1px solid black;
+    position:absolute;
+    height:200px;
+    width:250px;
+    margin-left:750px;
+    margin-top:20px;
+    
+}
+.down{
+    height:600px;
+    width:900px;
+}
+.my_courses{
+ border: 1px solid black;
+ position:absolute;
+ margin-left:215px;
+  height:200px;
+  width:520px;
+  margin-top:0px;
+
+}
+.homework_progress{
+    border: 1px solid black;
+    position:absolute;
+    margin-left:750px;
+     height:410px;
+     width:250px;
+     margin-top:0px;
+   
+   }
+   .graph{
+    border: 1px solid black;
+    position:absolute;
+    height:200px;
+    width:250px;
+    margin-left:215px;
+    margin-top:220px;
+   }
+.body{
+    border: 1px solid black;
+    height:700px;
+    width:1100px;
+    /* margin-bottom: 400px; */
+}
+.sub{
+    position:absolute;
+    margin-left:130px;
+    margin-top:5px;
+}
+.smallBox{
+border: 1px solid black;
+position:absolute;
+width:100px;
+height:50px;
+margin-top:5px;
+margin-left:5px;
+}
+.innerBox1{
+    border: 1px solid black;
+    position:absolute; 
+    margin-left:15px;
+    width:220px;
+    height:45px;
+}
+.innerBox2{
+    border: 1px solid black;
+    position:absolute; 
+    margin-left:15px;
+    width:220px;
+    height:45px;
+    margin-top:55px;
+}
+.innerBox3{
+    border: 1px solid black;
+    position:absolute; 
+    margin-left:15px;
+    width:220px;
+    height:45px;
+    margin-top:110px;
+}
+.content-left{
+    position:absolute;
+    margin-left:5px; 
+    font-size:10px;  
+}
+.content-middle{
+    position:absolute;
+    margin-left:75px; 
+    font-size:10px;  
+}
+.bigBox{
+    border: 1px solid black;
+    position:absolute;
+    width:215px;
+    height:60px;
+    margin-top:60px;
+    margin-left:5px;
+
+}
+.pic{
+    border: 1px solid black;
+    position:absolute;
+    width: 38px;
+    height:38px;
+    margin-top:3px;
+    margin-left:170px;
+}
