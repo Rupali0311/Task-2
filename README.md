@@ -12,7 +12,7 @@ run command "npm install" to install all the dependencies or install all the dep
 
 The dependencies are:
 
-"@testing-library/jest-dom": "^5.11.10"
+    "@testing-library/jest-dom": "^5.11.10"
 
     "@testing-library/react": "^11.2.6"
 
